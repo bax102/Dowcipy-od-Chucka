@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a05a19b3-ef79-47f5-9299-e0ee33b421d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UNjsvyxNJdfk0K8MtJhNVNu6Fw" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="chuck" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a05a19b3-ef79-47f5-9299-e0ee33b421d1" name="Default Changelist" comment="" />
+      <created>1575204156683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575204156683</updated>
+      <workItem from="1575204159572" duration="717000" />
+      <workItem from="1575204912340" duration="1775000" />
+      <workItem from="1575206720087" duration="1785000" />
+      <workItem from="1575208536577" duration="1783000" />
+      <workItem from="1575210357535" duration="995000" />
+      <workItem from="1575212181506" duration="209000" />
+      <workItem from="1575318180329" duration="1777000" />
+      <workItem from="1575319995964" duration="379000" />
+      <workItem from="1575397249817" duration="178000" />
+      <workItem from="1575398038989" duration="987000" />
+      <workItem from="1575399059989" duration="597000" />
+      <workItem from="1575401357385" duration="609000" />
+      <workItem from="1575792731505" duration="8000" />
+      <workItem from="1576094695052" duration="595000" />
+      <workItem from="1576096294618" duration="85000" />
+      <workItem from="1576096415759" duration="431000" />
+      <workItem from="1576317802470" duration="787000" />
+      <workItem from="1576319006794" duration="12000" />
+      <workItem from="1576322127592" duration="10000" />
+      <workItem from="1576322876447" duration="7000" />
+      <workItem from="1576398667857" duration="441000" />
+      <workItem from="1576865535857" duration="519000" />
+      <workItem from="1576866089232" duration="605000" />
+      <workItem from="1576868633302" duration="4000" />
+      <workItem from="1577193478336" duration="10000" />
+      <workItem from="1577193541978" duration="14000" />
+      <workItem from="1577193665266" duration="9000" />
+      <workItem from="1577193732432" duration="274000" />
+      <workItem from="1577194036959" duration="1400000" />
+      <workItem from="1578136759042" duration="14000" />
+      <workItem from="1578151753077" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
